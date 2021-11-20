@@ -1,6 +1,6 @@
 </h1>
 <p align="center">
-  <img src="https://uploader.hardianto.xyz/uploads/recfile-1636972914396.jpg" />
+  <img alig src="./code.gif" />
 </p>
 
 ## Hello There
