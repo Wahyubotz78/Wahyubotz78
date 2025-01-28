@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm WahyuBotz78</h1>
-<h3 align="center">Back End Developer | Distro Hopper ðŸ§</h3>
+<h3 align="center">Back End Developer | Distro Hopper 🐧</h3>
 
 
 
